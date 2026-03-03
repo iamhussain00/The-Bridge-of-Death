@@ -1,1 +1,0 @@
-A Java Swing game inspired by the Glass Bridge challenge — choose wisely or fall!
